@@ -14,4 +14,4 @@ for(var i = 0; i < 250000; i = i +1) {
     list.add(i)
 }
 
-console.log('structure test')
+console.log('passes structure test')
